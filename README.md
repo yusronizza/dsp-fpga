@@ -1,2 +1,2 @@
 # DSP FPGA
-Digital Signal Processing implementation on Field-Programmable Field Array
+Digital Signal Processing implementation on Field-Programmable Gate Array
